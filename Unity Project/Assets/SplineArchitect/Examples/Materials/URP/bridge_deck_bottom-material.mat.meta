@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 517972bf9e087514ba71e559f92ff2ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/bridge_deck_bottom-material.mat
+  uploadId: 962328

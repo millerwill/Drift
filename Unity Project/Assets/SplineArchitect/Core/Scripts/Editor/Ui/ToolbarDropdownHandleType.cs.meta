@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a8193327b98659c4c97d256ca690f921
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Ui/ToolbarDropdownHandleType.cs
+  uploadId: 962328

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e4099fb72095014fbbab10f3d6e194b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Demo/DemoSceneTerrain/RockLayer.terrainlayer
+  uploadId: 716603

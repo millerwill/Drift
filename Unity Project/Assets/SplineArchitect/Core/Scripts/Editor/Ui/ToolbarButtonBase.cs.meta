@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 292aca181b3d9a44aa7305488e2b7710
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Ui/ToolbarButtonBase.cs
+  uploadId: 962328

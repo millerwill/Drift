@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7696ec130fef06c4c90b4b867af63581
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/ScriptableObjects/SelectionUndoState.cs
+  uploadId: 962328

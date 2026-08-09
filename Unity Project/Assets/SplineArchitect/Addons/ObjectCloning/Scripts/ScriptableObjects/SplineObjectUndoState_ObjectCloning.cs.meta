@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 69a3f1b78bfd2a54095da77908a2ddff
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Addons/ObjectCloning/Scripts/ScriptableObjects/SplineObjectUndoState_ObjectCloning.cs
+  uploadId: 962328

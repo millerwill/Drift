@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4893f690735c5444da8ccecdf73b9c2a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/semi-truck_with_trailer.prefab
+  uploadId: 962328

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55a7512d16cc9ae4b989889659f924d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Models/Materials/SFS_VoxelMeadow_Diffuse_BCO3.mat
+  uploadId: 716603

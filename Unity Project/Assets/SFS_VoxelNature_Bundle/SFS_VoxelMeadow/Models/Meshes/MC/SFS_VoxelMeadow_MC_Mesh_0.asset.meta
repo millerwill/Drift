@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62fe856e5fee20a499c37d397fb721ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Models/Meshes/MC/SFS_VoxelMeadow_MC_Mesh_0.asset
+  uploadId: 716603

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac1fa34f9525d0140a9915f5269b742c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/plank_thick-material.mat
+  uploadId: 962328

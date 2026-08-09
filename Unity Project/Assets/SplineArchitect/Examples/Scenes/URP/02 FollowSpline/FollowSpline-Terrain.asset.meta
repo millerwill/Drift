@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e63242d11fe98c40aceb2680fae7298
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/02 FollowSpline/FollowSpline-Terrain.asset
+  uploadId: 962328

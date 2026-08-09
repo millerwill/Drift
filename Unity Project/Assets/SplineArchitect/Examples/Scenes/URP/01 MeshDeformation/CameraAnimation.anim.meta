@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10485375053d0ca4890ae6115a2287cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/01 MeshDeformation/CameraAnimation.anim
+  uploadId: 962328

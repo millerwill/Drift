@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 332e077e2a86eb34fbe37bcf2b2497cb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Models/Materials/SFS_VoxelWater.shader
+  uploadId: 716603

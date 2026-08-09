@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34e5349cc8487154db442e8ec86ddd97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/16 MoveSplineInstances/TornadoPointAnimation.anim
+  uploadId: 962328

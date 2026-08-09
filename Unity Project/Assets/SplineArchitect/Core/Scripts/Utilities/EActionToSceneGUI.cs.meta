@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f7561323804cc83438715d8233014c95
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Utilities/EActionToSceneGUI.cs
+  uploadId: 962328

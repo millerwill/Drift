@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04433c8f9958ff743a3c3fa6bd893614
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/01 MeshDeformation/MeshDeformation-GlobalVolume.asset
+  uploadId: 962328

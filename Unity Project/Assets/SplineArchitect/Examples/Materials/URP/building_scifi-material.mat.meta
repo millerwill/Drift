@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 172d9aace91376d4ea3f89b605e512c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/building_scifi-material.mat
+  uploadId: 962328

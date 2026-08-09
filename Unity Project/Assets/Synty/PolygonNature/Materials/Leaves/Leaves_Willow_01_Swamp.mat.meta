@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f90b3cdeb5d46c04eb2f0cf9f44881d0
+timeCreated: 1527737122
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Materials/Leaves/Leaves_Willow_01_Swamp.mat
+  uploadId: 915458

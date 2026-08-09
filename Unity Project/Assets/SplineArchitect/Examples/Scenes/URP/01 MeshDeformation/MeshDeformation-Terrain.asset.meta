@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5677645f6b72d79489de15801eb47bbf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/01 MeshDeformation/MeshDeformation-Terrain.asset
+  uploadId: 962328

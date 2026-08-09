@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5f0f4e01e8e2674b9895f9376836dce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Models/Meshes/BCR/SFS_VoxelMountainForest_BCR_Mesh_25.asset
+  uploadId: 716603

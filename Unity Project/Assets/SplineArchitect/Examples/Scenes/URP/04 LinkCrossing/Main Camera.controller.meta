@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 957df17ffc9fba84d965fdfe1f66dc8e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/04 LinkCrossing/Main Camera.controller
+  uploadId: 962328

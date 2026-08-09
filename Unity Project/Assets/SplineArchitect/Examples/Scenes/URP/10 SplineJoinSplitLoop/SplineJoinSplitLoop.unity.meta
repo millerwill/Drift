@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b878b97be182809418345340a163e1d9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/10 SplineJoinSplitLoop/SplineJoinSplitLoop.unity
+  uploadId: 962328

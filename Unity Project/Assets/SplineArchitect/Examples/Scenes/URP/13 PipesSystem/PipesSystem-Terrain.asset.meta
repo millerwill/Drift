@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ffa84e2d8947c943a0f697f6c7d0a2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/13 PipesSystem/PipesSystem-Terrain.asset
+  uploadId: 962328

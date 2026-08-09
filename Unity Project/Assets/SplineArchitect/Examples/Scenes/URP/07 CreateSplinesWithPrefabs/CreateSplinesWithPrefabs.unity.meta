@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ccb5947a8bd2cdc4aadc7fb9d2618818
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/07 CreateSplinesWithPrefabs/CreateSplinesWithPrefabs.unity
+  uploadId: 962328

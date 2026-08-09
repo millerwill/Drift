@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9240442207c6ce742b63360fd6490d0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Workers/DeformationWorker.cs
+  uploadId: 962328

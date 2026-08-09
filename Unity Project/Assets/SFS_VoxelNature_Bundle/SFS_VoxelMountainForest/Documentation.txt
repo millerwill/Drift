@@ -1,0 +1,41 @@
+---------- StarvingFox Studio - Voxel Mountain Forest ---------- 
+--------------------DOCUMENTATION--------------------
+
+Recommended Terrain Shader : Default-Terrain-Diffuse
+Matching tiling for the terrain texture : 6x6
+
+----- Performance tips -----
+If you are trying to run the demo scene as it is, you will most likely run into performances issues. It is not meant to be playable but to demonstrate what's possible to do with the asset.
+
+We strongly recommend using a dedicated system for vegetation instancing (grass in particular) and to toggle LODs on all prefabs for maximum performances.
+Using only 3D grass models at a large scale is never recommended whatever the graphic style you're going for and those are generally meant to be used as complementary elements, the same you would do with bushes.
+-----
+
+To move the models according to a voxel grid, set your grid and snap settings to 0,1.
+
+===== Store Page Screenshots Look Guide =====
+{
+	To achieve a look similar to the screenshots on the store page, you will need to use post processing with the following values :
+	
+	Post Processing Settings -----
+	
+	Anti-Aliasing - TAA , Stationary Blending => 0.99 , Motion Blending => 0.99 , Sharpness => 0
+	Color Grading - Mode => ACES , Temperature => 5 , Post-exposure (EV) => 2 , Saturation => 10 , Contrast => 30 , Gain => 1.32 ; 1.29 ; 1.50
+	
+}
+
+----- Switching Between Render Pipelines -----
+
+To use URP, import the new materials by opening the corresponding package in SFS_VoxelModularChalet/Models/Materials/RenderingPipelines
+
+----------
+
+----- Modifying Models -----
+
+You can modify any model to use in your project by opening the .vox files located in the /Voxels folder using Magica Voxel.
+However, keep in mind that every model has been imported using our own custom solution and heavily optimized, which will not be the case if you import a new model 
+yourself straight out of Magica Voxel. I would not recommend doing so unless you are using a decent voxel importer.
+
+You may not distribute or sell any of the modified models.
+
+----------

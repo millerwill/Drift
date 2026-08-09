@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 37dc4795d8827d24f9153cd6a97bf3f6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelDesert/Models/Materials/SFS_VoxelLeaves.shader
+  uploadId: 716603

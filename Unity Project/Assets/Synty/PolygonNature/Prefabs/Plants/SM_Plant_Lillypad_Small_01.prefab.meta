@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 810c250009b1a6e42a03ee063cd10080
+timeCreated: 1528164008
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Prefabs/Plants/SM_Plant_Lillypad_Small_01.prefab
+  uploadId: 915458

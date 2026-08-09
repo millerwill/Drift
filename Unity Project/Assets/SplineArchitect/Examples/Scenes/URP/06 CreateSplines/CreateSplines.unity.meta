@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0e035521c8fa9f40bd12cbcea56afa1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/06 CreateSplines/CreateSplines.unity
+  uploadId: 962328

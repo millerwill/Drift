@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c60f6f9c7c3ac7744b76e8c009eb3705
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/bridge_pier_start.prefab
+  uploadId: 962328

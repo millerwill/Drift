@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f44d0208401aa774abb7bc13bb74f20b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Models/Materials/SFS_VoxelTree.shader
+  uploadId: 716603

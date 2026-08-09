@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41cbce41e6100bd4795fcf7202869c8e
+timeCreated: 1586904148
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Ritual_Circle_01.prefab
+  uploadId: 923600

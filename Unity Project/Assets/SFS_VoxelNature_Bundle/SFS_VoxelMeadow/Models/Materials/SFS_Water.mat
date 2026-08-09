@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFS_Water
+  m_Shader: {fileID: 4800000, guid: 332e077e2a86eb34fbe37bcf2b2497cb, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: a617da92c22a12a4883a4e3ea431f020, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterFoam:
+        m_Texture: {fileID: 2800000, guid: afa95530c8898e643b6e868a0ca208dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _EdgeFoamFade: 1
+    - _EdgeFoamOpacity: 0.8
+    - _EdgeFoamSize: 2
+    - _EdgePower: 1.14
+    - _EdgeSize: 0.137
+    - _EnvironmentReflections: 1
+    - _Glossiness: 0
+    - _Metallic: 0
+    - _NormalScale: 0.24
+    - _NormalSpeed: 0.01
+    - _NormalStrength: 0.3
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Refraction: 0.01
+    - _Smoothness: 0
+    - _SpecularHighlights: 1
+    - _WaterDepth: 2.5
+    - _WaveFoamOpacity: 0.5
+    - _WaveFoamSpeed: 0.01
+    - _WaveFoamTiling: 2
+    - _WaveHeight: 1
+    - _WaveScale: 0.1
+    - _WaveSpeed: 0.1
+    - __dirty: 1
+    m_Colors:
+    - _DeepColor: {r: 0.010902455, g: 0.39209554, b: 0.46226418, a: 0}
+    - _EdgeColor: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LightColor: {r: 1, g: 1, b: 1, a: 0}
+    - _NormalMainDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _NormalSecondDirection: {r: -1, g: 0, b: 0, a: 0}
+    - _WaveDirection: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

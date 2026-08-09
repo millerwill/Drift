@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 09e68577aa85e0d4a8177d0fe46fd26b
+timeCreated: 1528776585
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Materials/LODS/Leaves_Fern_LOD_01.mat
+  uploadId: 915458

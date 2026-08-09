@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2378f6989eb8bd640a5fe4439d79b940
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Jobs/MeshSubdivisionJob.cs
+  uploadId: 962328

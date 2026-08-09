@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 76ef43c1bd544924b8aeb115e01163b5
+timeCreated: 1585023146
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Smoke_White_Small_01.prefab
+  uploadId: 923600

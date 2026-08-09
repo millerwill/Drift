@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a15456bc0dfbfd74a9b95b28bd2b5d67
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/train_generic_wheels.prefab
+  uploadId: 962328

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7648685cf6e740548ac48e51ba1b6489
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/road_barrier.prefab
+  uploadId: 962328

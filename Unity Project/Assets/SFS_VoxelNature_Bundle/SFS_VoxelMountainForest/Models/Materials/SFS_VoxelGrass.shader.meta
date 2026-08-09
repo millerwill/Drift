@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 29b7cf547f687d04b9e07e97c4bfa38e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Models/Materials/SFS_VoxelGrass.shader
+  uploadId: 716603

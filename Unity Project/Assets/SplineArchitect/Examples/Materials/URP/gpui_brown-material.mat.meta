@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3cad813f7b8c70d44ab8c7030a1fa004
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/gpui_brown-material.mat
+  uploadId: 962328

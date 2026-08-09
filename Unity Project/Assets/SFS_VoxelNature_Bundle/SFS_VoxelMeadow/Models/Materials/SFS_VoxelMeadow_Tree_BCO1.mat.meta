@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 119b0447571429b4d90c64dd40d9d2ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Models/Materials/SFS_VoxelMeadow_Tree_BCO1.mat
+  uploadId: 716603

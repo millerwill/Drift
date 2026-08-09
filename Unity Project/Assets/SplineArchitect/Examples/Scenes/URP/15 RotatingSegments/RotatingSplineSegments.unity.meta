@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cbb88aeeb545e5246a8749fb97f7e24a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/15 RotatingSegments/RotatingSplineSegments.unity
+  uploadId: 962328

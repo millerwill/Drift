@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a280d0f6131911d45b36238864070739
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/bridge_deck_bottom.prefab
+  uploadId: 962328

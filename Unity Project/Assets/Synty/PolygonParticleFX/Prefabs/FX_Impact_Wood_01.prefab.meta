@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b28f2fdc5a65964f96ea4d2b9d6ca63
+timeCreated: 1585281702
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Impact_Wood_01.prefab
+  uploadId: 923600

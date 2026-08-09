@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58d07e29d6b016f49ad0b6ba66440204
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/plank_thick.prefab
+  uploadId: 962328

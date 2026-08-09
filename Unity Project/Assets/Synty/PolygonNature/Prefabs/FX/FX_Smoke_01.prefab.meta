@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4a0499d54725319468a5b96a461b629d
+timeCreated: 1528253760
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Prefabs/FX/FX_Smoke_01.prefab
+  uploadId: 915458

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 272b5691d93a6d14aa92e23980cc3d65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/semi-truck-material.mat
+  uploadId: 962328

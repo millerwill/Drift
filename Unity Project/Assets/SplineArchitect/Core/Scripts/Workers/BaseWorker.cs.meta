@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e2ec8739dc2f2164fa4eab1d0430ebe7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Workers/BaseWorker.cs
+  uploadId: 962328

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb6904452295d0d4ba1ce77f66662d0a
+timeCreated: 1586996843
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_RainbowGlow_01.prefab
+  uploadId: 923600

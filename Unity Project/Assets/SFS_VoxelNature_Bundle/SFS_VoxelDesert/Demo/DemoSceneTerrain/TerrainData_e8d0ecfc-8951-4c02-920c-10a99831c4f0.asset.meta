@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8820511ea03cb934795d7920a8fb27a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelDesert/Demo/DemoSceneTerrain/TerrainData_e8d0ecfc-8951-4c02-920c-10a99831c4f0.asset
+  uploadId: 716603

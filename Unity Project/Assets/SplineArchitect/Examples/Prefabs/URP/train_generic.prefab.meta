@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ed6d6642ca789941b1c1ccb905b0348
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/train_generic.prefab
+  uploadId: 962328

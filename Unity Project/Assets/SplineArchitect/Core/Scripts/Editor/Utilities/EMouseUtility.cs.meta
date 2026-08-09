@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 921816a5c03f2b241ba5c0338a7132c0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Utilities/EMouseUtility.cs
+  uploadId: 962328

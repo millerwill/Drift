@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33658926fb820ab408994bd006947d1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Demo/DemoSceneTerrain/DirtLayer.terrainlayer
+  uploadId: 716603

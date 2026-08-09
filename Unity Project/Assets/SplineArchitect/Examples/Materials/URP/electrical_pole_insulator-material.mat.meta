@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b04e5228748e2747afc3a106bf12147
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/electrical_pole_insulator-material.mat
+  uploadId: 962328

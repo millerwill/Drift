@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 548c6fec2d107944090a25d8a24a815d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Ui/WindowBase.cs
+  uploadId: 962328

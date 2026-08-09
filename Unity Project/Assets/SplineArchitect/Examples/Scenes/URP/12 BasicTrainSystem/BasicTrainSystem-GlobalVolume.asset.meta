@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44b60f3031d3b3d4ca537ff01e19d553
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/12 BasicTrainSystem/BasicTrainSystem-GlobalVolume.asset
+  uploadId: 962328

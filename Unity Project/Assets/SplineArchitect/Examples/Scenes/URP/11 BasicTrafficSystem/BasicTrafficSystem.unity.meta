@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab8a35d39c34eab46bcc60ef4c77e179
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/11 BasicTrafficSystem/BasicTrafficSystem.unity
+  uploadId: 962328

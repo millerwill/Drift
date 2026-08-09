@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39edab33da3e8c64f8ea35d814d97bd9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/car_sedan_glass-material.mat
+  uploadId: 962328

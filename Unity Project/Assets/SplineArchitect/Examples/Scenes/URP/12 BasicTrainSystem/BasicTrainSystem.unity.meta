@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fcee3f3fa5c4fb42b0ff2e3dd6cc77d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/12 BasicTrainSystem/BasicTrainSystem.unity
+  uploadId: 962328

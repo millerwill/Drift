@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d5732c70e00bc34090083ae49c3bfbb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/snake.prefab
+  uploadId: 962328

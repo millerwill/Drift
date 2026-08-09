@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06248841198130a4ab1e7e546c2ad443
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/grey-material-material.mat
+  uploadId: 962328

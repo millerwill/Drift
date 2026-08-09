@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------
+// SplineArchitect
+// Filename: ControlHandle.cs
+//
+// Author: Mikael Danielsson
+// Date Created: 12-02-2023
+// (C) 2023 Mikael Danielsson. All rights reserved.
+// -----------------------------------------------------------------------------
+
+namespace SplineArchitect
+{
+    public enum ControlHandle : byte
+    {
+        NONE,
+        ANCHOR,
+        TANGENT_A,
+        TANGENT_B
+    }
+}

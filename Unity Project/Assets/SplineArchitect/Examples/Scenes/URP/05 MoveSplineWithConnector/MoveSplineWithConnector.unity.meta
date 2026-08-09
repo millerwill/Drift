@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb4fe6a1818b13744a7b65fbf361ae8f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/05 MoveSplineWithConnector/MoveSplineWithConnector.unity
+  uploadId: 962328

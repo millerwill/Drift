@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4cffc4e3756a2a4cbaefcb820588222
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/white-material.mat
+  uploadId: 962328

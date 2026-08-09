@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d02800d1aabf7b458856eb3f07900ff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/line1x01_white.prefab
+  uploadId: 962328

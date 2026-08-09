@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d7638c40186e9cb42bf26b341bd488fd
+timeCreated: 1588656916
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Grenade_Explosive_Toss_01.prefab
+  uploadId: 923600

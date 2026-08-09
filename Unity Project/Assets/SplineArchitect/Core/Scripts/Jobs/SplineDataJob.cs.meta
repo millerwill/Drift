@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3caf2e4236ffae648a3aac6d2ebc0413
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Jobs/SplineDataJob.cs
+  uploadId: 962328

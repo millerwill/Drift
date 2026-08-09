@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52316e3e78c11ac4db135f7d117875ce
+timeCreated: 1528155081
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Prefabs/Terrain/SM_River_Plane_WaterFall_01.prefab
+  uploadId: 915458

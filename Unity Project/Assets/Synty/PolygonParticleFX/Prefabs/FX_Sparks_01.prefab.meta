@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a905dc8b3b361840bb50c14f05926a9
+timeCreated: 1588125621
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Sparks_01.prefab
+  uploadId: 923600

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 592acddd3d7e930429d5ada40a8a539d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/12 BasicTrainSystem/BasicTrainSystem-Lightning.lighting
+  uploadId: 962328

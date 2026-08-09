@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 960236b03e1c5044b83a65f20f134168
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Models/Materials/SFS_VoxelMeadow_Leaves_BCB.mat
+  uploadId: 716603

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 484f68ebb25012b48b561c6a58eac81b
+timeCreated: 1527737122
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Materials/Leaves/Leaves_Pine_01_Snow.mat
+  uploadId: 915458

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40a283650a8687f408d76bccc7d878af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/pipe_metal2_holder.prefab
+  uploadId: 962328

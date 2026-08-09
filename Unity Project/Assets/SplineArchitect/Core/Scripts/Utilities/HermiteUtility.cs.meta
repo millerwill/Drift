@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 011fc2a9dc6d7034da1cadf4a415682b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Utilities/HermiteUtility.cs
+  uploadId: 962328

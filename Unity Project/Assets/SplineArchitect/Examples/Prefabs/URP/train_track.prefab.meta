@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3bb4d666fad2b21489f3641189c55458
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/train_track.prefab
+  uploadId: 962328

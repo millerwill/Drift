@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a1f73ee94818b814b81834d2f5366918
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Ui/ToolbarDropdownTogglePlane.cs
+  uploadId: 962328

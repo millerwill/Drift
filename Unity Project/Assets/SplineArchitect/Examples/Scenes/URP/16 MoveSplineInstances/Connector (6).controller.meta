@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 054551ce69f632d41bead828989c3e05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/16 MoveSplineInstances/Connector
+    (6).controller
+  uploadId: 962328

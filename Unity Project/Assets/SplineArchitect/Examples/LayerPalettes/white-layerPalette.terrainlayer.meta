@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b5bd2a00eef78f41a331080b6492ec9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/LayerPalettes/white-layerPalette.terrainlayer
+  uploadId: 962328

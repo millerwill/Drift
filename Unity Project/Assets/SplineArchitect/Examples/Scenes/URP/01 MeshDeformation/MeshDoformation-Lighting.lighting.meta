@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f93566f10f71a424c86040391fa5f443
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/01 MeshDeformation/MeshDoformation-Lighting.lighting
+  uploadId: 962328

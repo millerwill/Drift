@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 51bd87c9a77db6b4d80a30b9dc50fe9e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Jobs/RayIntersectMeshJob.cs
+  uploadId: 962328

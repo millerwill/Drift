@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62d9c6aa47605684eb0b6e6b93121330
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/LayerPalettes/white_blockout-layerPalette.terrainlayer
+  uploadId: 962328

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 679df5662bf48b54aa2eb8ce0c5792f6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/ScriptableObjects/SplineObjectUndoState.cs
+  uploadId: 962328

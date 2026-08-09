@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfb5dfcf4d19113469e590260d804969
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/04 LinkCrossing/LinkCrossing-GlobalVolume.asset
+  uploadId: 962328

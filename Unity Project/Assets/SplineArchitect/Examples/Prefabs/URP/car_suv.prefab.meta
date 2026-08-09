@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5805d1ead745b143bdb0c4dd96a14c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/car_suv.prefab
+  uploadId: 962328

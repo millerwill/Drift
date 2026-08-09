@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d49d022c8ca113f45805f67df74cf576
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/03 MoveSpline/MoveSpline-GlobalVolume.asset
+  uploadId: 962328

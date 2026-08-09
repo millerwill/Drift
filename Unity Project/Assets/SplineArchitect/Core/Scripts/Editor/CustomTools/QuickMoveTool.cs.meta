@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a872e0b2974646f40ab1e5de4b7c7185
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/CustomTools/QuickMoveTool.cs
+  uploadId: 962328

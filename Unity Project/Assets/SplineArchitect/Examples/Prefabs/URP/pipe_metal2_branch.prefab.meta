@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec0d1c7cdcb4f2947b58406c8219bd2d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/pipe_metal2_branch.prefab
+  uploadId: 962328

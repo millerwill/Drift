@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c3d334617412c24d8f3a6082d174e91
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Demo/DemoSceneTerrain/DarkGrassLayer.terrainlayer
+  uploadId: 716603

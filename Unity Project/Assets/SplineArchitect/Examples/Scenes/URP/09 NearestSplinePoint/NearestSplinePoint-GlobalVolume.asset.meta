@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4470d67e35da1db42814d5fe47d4ffd3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/09 NearestSplinePoint/NearestSplinePoint-GlobalVolume.asset
+  uploadId: 962328

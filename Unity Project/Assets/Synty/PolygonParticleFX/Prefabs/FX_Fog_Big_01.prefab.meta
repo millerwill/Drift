@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df0c133e93e92ea43ac4d6bec15faea4
+timeCreated: 1585081310
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Fog_Big_01.prefab
+  uploadId: 923600

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec8005585d14a534db8df47703a83c1d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/12 BasicTrainSystem/Main
+    Camera.controller
+  uploadId: 962328

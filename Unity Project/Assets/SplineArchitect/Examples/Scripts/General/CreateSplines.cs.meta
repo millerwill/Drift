@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97d4d3ba715c12841b3b8c4d010a0b95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scripts/General/CreateSplines.cs
+  uploadId: 962328

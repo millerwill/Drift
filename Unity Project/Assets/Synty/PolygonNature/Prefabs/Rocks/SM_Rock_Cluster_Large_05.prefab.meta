@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e4efea68f7a2f5f4e8be9deb8c0ba72c
+timeCreated: 1527820965
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Prefabs/Rocks/SM_Rock_Cluster_Large_05.prefab
+  uploadId: 915458

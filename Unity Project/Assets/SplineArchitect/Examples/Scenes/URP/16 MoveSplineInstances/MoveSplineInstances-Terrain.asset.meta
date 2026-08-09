@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f0676551e21bf349b8c8784840335d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/16 MoveSplineInstances/MoveSplineInstances-Terrain.asset
+  uploadId: 962328

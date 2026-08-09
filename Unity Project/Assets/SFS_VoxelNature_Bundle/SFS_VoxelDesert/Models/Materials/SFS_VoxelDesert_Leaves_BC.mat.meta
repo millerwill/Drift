@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 327622338b9b3644b87797246e98c916
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelDesert/Models/Materials/SFS_VoxelDesert_Leaves_BC.mat
+  uploadId: 716603

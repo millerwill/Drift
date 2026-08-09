@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f788b8293880f0f4a99d7c7b9bd1f16d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/14 SplineObjectToggle/SplineObjectToggle/Global
+    Volume Profile.asset
+  uploadId: 962328

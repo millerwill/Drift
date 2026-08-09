@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f219343aa84b5ac4d9dcfadd9e71b25d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/SplineArchitect.asmdef
+  uploadId: 962328

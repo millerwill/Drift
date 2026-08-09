@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ab0ecc5d1fe93945beafed79c2995c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/car_suv-material.mat
+  uploadId: 962328

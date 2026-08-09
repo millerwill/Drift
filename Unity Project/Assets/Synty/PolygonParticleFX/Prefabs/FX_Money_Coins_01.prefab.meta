@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 99f0252a0079f694aa521693558bdc7b
+timeCreated: 1588201951
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Money_Coins_01.prefab
+  uploadId: 923600

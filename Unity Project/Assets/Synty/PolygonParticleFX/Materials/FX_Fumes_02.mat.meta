@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c5f13e6a6061214697a61fa94a0e19c
+timeCreated: 1576555502
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Materials/FX_Fumes_02.mat
+  uploadId: 923600
