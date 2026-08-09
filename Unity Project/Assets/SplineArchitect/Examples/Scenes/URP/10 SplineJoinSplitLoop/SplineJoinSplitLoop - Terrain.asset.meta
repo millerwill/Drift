@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b71c198ce7976f439ccfe150b913e62
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/10 SplineJoinSplitLoop/SplineJoinSplitLoop
+    - Terrain.asset
+  uploadId: 962328

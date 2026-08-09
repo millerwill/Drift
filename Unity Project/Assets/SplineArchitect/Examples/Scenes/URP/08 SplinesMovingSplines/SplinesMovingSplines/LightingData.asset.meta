@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bdc3d174bfb15c40abcc5a0a47d0c98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/08 SplinesMovingSplines/SplinesMovingSplines/LightingData.asset
+  uploadId: 962328

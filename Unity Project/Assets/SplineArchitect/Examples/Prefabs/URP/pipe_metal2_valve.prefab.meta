@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bdc965611c6c3ae48871470764feb64a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/pipe_metal2_valve.prefab
+  uploadId: 962328

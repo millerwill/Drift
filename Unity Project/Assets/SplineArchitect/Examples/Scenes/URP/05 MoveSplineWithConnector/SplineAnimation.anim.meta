@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a44931258b8a4b4480d50ea53fcf8fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/05 MoveSplineWithConnector/SplineAnimation.anim
+  uploadId: 962328

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0c59b2ac971e4c5498afb20ab669dfa1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Ui/ToolbarToggleControlPanel.cs
+  uploadId: 962328

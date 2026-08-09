@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0817e35576c8dfc4e94110f0a9590301
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Prefabs/Grass/SFS_VoxelMeadow_GrassPatch_Medium_2.prefab
+  uploadId: 716603

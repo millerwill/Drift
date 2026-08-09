@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77f89b103083dee4397a8092c51a659c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/14 SplineObjectToggle/SplineObjectToggle
+    - Terrain.asset
+  uploadId: 962328

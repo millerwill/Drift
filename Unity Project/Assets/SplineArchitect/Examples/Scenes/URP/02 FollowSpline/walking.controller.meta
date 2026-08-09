@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de6e303be420b2f4faea60ff5a373c3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/02 FollowSpline/walking.controller
+  uploadId: 962328

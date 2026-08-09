@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d24d37196860e1d4d982c5ff0623aeb5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/building_scifi.prefab
+  uploadId: 962328

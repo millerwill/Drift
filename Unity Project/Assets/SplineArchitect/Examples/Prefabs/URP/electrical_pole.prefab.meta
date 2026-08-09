@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fad8f3a8e74f7b48b6e504a13230fab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/electrical_pole.prefab
+  uploadId: 962328

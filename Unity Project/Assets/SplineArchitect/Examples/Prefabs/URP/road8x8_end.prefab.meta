@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de66094a93516cd44906167c7d1a7004
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/road8x8_end.prefab
+  uploadId: 962328

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6c67e40749270d4a820fcca781d31c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/plane60x6.prefab
+  uploadId: 962328

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d30546528f8d747479f6cb7e54a15a05
+timeCreated: 1588894221
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Nuke_Smaller_01.prefab
+  uploadId: 923600

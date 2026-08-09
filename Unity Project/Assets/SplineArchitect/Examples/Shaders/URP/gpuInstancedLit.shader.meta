@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca3df15a86fb2ef49b7b09c1527f051a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Shaders/URP/gpuInstancedLit.shader
+  uploadId: 962328

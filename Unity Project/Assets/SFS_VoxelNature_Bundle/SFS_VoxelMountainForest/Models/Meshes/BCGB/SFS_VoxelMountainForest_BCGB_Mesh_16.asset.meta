@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68c1d6229ce01c04cbf181ea3120d76a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Models/Meshes/BCGB/SFS_VoxelMountainForest_BCGB_Mesh_16.asset
+  uploadId: 716603

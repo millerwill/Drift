@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 11348b54759b6e14c8dca8f487aa9ba6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Addons/ObjectCloning/Scripts/CloneDirection.cs
+  uploadId: 962328

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38ed90ccbbab5be4586344a66330fb56
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/plank_wide.prefab
+  uploadId: 962328

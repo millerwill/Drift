@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ebd16f05c93cbe4aaa6f2d0b15a1f55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/10 SplineJoinSplitLoop/SplineJoinSplitLoop/Global
+    Volume Profile.asset
+  uploadId: 962328

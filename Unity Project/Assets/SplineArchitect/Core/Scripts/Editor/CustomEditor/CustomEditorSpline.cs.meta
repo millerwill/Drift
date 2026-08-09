@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 709176667b087a24bb24952b1cd05b72
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/CustomEditor/CustomEditorSpline.cs
+  uploadId: 962328

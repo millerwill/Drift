@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62347b44df972f74fb122417fc5483d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/car_wagon.prefab
+  uploadId: 962328

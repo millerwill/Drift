@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65afc4ced3660df49a323916a437a6dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/ground02-material.mat
+  uploadId: 962328

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 41dd3d78d98daca4394fe472671d4270
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Utilities/NoiseUtility.cs
+  uploadId: 962328

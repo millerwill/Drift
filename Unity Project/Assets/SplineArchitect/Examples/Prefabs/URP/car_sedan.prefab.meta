@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7050c30bcd8de2c42a6bb006bec813cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/car_sedan.prefab
+  uploadId: 962328

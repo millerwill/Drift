@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28276d83285fa0b4dbd89f2f7ea4cda9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/02 FollowSpline/Sphere.controller
+  uploadId: 962328

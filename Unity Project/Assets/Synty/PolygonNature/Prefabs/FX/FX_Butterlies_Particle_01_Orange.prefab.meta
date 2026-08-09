@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5085f126b86c13f46937a2143b8935a7
+timeCreated: 1527127557
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Prefabs/FX/FX_Butterlies_Particle_01_Orange.prefab
+  uploadId: 915458

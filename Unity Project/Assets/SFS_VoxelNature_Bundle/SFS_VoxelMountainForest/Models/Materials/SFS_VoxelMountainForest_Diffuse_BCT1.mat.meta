@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ee998928ab76c947b49ed9ca5f9f124
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Models/Materials/SFS_VoxelMountainForest_Diffuse_BCT1.mat
+  uploadId: 716603

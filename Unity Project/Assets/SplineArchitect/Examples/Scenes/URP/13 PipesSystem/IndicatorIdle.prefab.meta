@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b59757d1ea6f0b9458eb1c38e0b8f9d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/13 PipesSystem/IndicatorIdle.prefab
+  uploadId: 962328

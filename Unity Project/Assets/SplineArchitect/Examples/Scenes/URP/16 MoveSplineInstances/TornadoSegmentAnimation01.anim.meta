@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5555770cb248e0249aa26485e655a3e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/16 MoveSplineInstances/TornadoSegmentAnimation01.anim
+  uploadId: 962328

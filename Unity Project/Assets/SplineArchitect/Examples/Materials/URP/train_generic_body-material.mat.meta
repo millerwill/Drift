@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f37e472a2a075d48a103c07e295f04b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/train_generic_body-material.mat
+  uploadId: 962328

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab15732f9da12cf42a66e3034d472663
+timeCreated: 1585018196
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Smoke_Trail_Large_01.prefab
+  uploadId: 923600

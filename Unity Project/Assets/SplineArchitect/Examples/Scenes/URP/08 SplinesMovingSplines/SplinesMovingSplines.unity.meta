@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1f9c31cf54095644a6c3b362c530d73
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/08 SplinesMovingSplines/SplinesMovingSplines.unity
+  uploadId: 962328

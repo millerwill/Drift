@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 647a3899a9811fa42bde3b6bba441b0c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/01 MeshDeformation/MeshDeformation.unity
+  uploadId: 962328

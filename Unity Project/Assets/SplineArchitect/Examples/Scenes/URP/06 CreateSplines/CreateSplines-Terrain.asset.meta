@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3cd707f0dc89c7e41b837d6b0b1935e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/06 CreateSplines/CreateSplines-Terrain.asset
+  uploadId: 962328

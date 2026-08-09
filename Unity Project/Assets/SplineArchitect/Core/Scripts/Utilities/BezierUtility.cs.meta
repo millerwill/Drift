@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 29eb39812d2afbf4cadcecb4e7f4dfb7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Utilities/BezierUtility.cs
+  uploadId: 962328

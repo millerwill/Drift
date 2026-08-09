@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1fee4e8a0a79829439df4074ad6c1162
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/PostProcessing/BuildProcessReport.cs
+  uploadId: 962328

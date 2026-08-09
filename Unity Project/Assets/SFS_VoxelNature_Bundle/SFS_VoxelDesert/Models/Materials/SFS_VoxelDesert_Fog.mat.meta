@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba4d14be8e155d5409e954e8dfe4c6e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelDesert/Models/Materials/SFS_VoxelDesert_Fog.mat
+  uploadId: 716603

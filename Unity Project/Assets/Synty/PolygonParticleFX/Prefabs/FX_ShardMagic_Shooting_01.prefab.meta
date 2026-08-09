@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 729014ca67ac73040acae7a3ae78a34f
+timeCreated: 1587435357
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_ShardMagic_Shooting_01.prefab
+  uploadId: 923600

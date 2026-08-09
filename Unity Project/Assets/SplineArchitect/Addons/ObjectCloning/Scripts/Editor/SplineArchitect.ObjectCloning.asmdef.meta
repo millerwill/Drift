@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d10ee1086b3d2174b8aeb44e05131b7d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Addons/ObjectCloning/Scripts/Editor/SplineArchitect.ObjectCloning.asmdef
+  uploadId: 962328

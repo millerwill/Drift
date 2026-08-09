@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32d2366658bd73f4992a67c1bd7ea141
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/pipe_metal.prefab
+  uploadId: 962328

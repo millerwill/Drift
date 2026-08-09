@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4c546af4091a7749ad16cfff3548a34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Models/Materials/SFS_VoxelMountainForest_Leaves_BCGB.mat
+  uploadId: 716603

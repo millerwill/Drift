@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb2dde89894f4e34899972c4f65d09ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/pipe_metal2-material.mat
+  uploadId: 962328

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97e09dd132026df41a298815da4b23d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/train_generic_bottom-material.mat
+  uploadId: 962328

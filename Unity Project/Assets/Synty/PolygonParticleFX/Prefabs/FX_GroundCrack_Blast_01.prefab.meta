@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e7473d9620ab29341b98bf21b400e598
+timeCreated: 1587347660
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_GroundCrack_Blast_01.prefab
+  uploadId: 923600

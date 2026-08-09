@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14d2b6e1919e77f4ea7542a3967748e6
+timeCreated: 1528776585
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Materials/LODS/Leaves_Willow_LOD_01.mat
+  uploadId: 915458

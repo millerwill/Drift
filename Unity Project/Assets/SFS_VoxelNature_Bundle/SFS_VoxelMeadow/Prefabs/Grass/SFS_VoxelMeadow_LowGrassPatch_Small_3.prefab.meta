@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5d1f4b70766db84c8a3d8c9a72cdb1f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Prefabs/Grass/SFS_VoxelMeadow_LowGrassPatch_Small_3.prefab
+  uploadId: 716603

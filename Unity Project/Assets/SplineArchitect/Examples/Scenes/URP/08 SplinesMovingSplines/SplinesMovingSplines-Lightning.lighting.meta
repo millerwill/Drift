@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07d8a7bdec81bd34096e3ed97fe37bc2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/08 SplinesMovingSplines/SplinesMovingSplines-Lightning.lighting
+  uploadId: 962328

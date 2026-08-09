@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aae857e2d72142c469754ddc0ef26b15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/car_offroad.prefab
+  uploadId: 962328

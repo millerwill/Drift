@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adaf9ba53f35f0c4381fef64dd702287
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/05 MoveSplineWithConnector/MoveSplineWithConnector-Terrain.asset
+  uploadId: 962328

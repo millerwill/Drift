@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3a28f566bc928b4a8d3b9b5e84a3b79
+timeCreated: 1585258942
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_SunBeam_Small_01.prefab
+  uploadId: 923600

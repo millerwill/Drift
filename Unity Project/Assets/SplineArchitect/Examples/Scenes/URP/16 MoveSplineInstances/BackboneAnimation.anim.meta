@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d23ac5006bcfd7044828cdccc4e0748b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/16 MoveSplineInstances/BackboneAnimation.anim
+  uploadId: 962328

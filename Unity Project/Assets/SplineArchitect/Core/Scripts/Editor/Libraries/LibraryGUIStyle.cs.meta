@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 542b3506973a6af41ac58a68f01b0c11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/Libraries/LibraryGUIStyle.cs
+  uploadId: 962328

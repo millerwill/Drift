@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e952b949cd566ca4fb33d1048a349595
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/asphalt01-material.mat
+  uploadId: 962328

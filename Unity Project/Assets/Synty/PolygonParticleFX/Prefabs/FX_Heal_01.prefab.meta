@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7f93a0255162fd47bbe40874f339bf4
+timeCreated: 1587095839
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_Heal_01.prefab
+  uploadId: 923600

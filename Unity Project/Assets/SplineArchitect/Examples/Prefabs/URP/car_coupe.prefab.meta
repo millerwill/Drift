@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3bdff3c700fa3b4db1848ed29ec8f1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/car_coupe.prefab
+  uploadId: 962328

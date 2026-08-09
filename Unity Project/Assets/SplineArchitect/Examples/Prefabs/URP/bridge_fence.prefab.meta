@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: caef0bd9467f37240ab32d160069f9fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/bridge_fence.prefab
+  uploadId: 962328

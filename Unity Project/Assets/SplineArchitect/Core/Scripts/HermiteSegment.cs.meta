@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 78799de3071e4f64fb504100e4b9d3b8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/HermiteSegment.cs
+  uploadId: 962328

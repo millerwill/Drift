@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33fd0dfb860ffeb47a7e11fa18a9f987
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/line_thick_blue.prefab
+  uploadId: 962328

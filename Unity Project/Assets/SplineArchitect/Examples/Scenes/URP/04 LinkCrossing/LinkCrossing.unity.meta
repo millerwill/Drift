@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e85dad4cba059344997c36b00f0bd24
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/04 LinkCrossing/LinkCrossing.unity
+  uploadId: 962328

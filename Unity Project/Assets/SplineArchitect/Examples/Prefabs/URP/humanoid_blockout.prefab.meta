@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f2db86c9b7b4f54ba055f03a0e7c8f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/humanoid_blockout.prefab
+  uploadId: 962328

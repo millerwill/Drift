@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 721315613ff997542ba6f6fea4cd449e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/LayerPalettes/rock-layerPalette.terrainlayer
+  uploadId: 962328

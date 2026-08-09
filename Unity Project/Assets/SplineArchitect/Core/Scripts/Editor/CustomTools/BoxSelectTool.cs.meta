@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 23f81517735cc07438661866362240d1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/CustomTools/BoxSelectTool.cs
+  uploadId: 962328

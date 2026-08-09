@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d41f7a726bbffb4cbbb2823d590fe5f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/car_sport.prefab
+  uploadId: 962328

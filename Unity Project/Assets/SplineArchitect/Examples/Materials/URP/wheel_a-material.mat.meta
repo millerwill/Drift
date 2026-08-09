@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 110ce17657d564340990ec531479a7b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/wheel_a-material.mat
+  uploadId: 962328

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd4250d5c6e2b444cba75510e9efb53d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Prefabs/Trees/SFS_VoxelMeadow_OakSapling1_4.prefab
+  uploadId: 716603

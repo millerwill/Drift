@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 663145a8d56b6274a9ef5dc3af18e184
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Materials/URP/plank_tall-material.mat
+  uploadId: 962328

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4243cda7a7beb3a40be4992c1cbcccde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMeadow/Demo/DemoSceneTerrain/DemoTerrainGrassDirtLayer2.terrainlayer
+  uploadId: 716603

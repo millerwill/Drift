@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd4b0b5f659cbf84c864ff9bf31ee415
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/06 CreateSplines/CreateSplines-GlobalVolume.asset
+  uploadId: 962328

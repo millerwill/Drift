@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dad69145e5c6c714abc74c953d1bd97b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/02 FollowSpline/FollowSpline-GlobalVolume.asset
+  uploadId: 962328

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89a335a44e2f1ba40ae1b64e4ba052cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/13 PipesSystem/indicatorIdleMaterial.mat
+  uploadId: 962328

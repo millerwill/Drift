@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c44f8a002cefa840862ebe80a6c3d2c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/09 NearestSplinePoint/NearestSplinePoint.unity
+  uploadId: 962328

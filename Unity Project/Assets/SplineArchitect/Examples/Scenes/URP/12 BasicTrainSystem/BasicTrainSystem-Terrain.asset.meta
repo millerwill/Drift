@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad2c4beaf97981243b5cfe910f845cab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/12 BasicTrainSystem/BasicTrainSystem-Terrain.asset
+  uploadId: 962328

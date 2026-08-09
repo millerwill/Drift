@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ebe5f4397ab6f540a440c1b54e797bf
+timeCreated: 1527658087
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Materials/FX/Flies_01.mat
+  uploadId: 915458

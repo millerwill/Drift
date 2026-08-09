@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6f80a3762b16f24b9243c12c5d80403
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/plank_tall.prefab
+  uploadId: 962328

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d1587c086b63da04fb7054223e2a0a6f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Core/Scripts/Editor/EHandleWarningWindow.cs
+  uploadId: 962328

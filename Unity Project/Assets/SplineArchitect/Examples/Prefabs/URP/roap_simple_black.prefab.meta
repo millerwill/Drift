@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1982ad19166671a49be0256d4902a22b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/roap_simple_black.prefab
+  uploadId: 962328

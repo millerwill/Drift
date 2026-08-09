@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27ba6f4262ce0de4c93e6d48082d0008
+timeCreated: 1527737122
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120152
+  packageName: POLYGON - Nature Pack - Art by Synty
+  packageVersion: 1.2.0
+  assetPath: Assets/Synty/PolygonNature/Materials/Alts/PolygonNature_02.mat
+  uploadId: 915458

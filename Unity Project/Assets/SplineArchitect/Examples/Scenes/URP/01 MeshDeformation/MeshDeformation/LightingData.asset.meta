@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3af9ff8259470624495ac15c50b5831e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/01 MeshDeformation/MeshDeformation/LightingData.asset
+  uploadId: 962328

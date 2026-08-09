@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed67c2cb8e3a7fb418c6fbb1b001dce2
+timeCreated: 1585086395
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_BloodSplat_Small_01.prefab
+  uploadId: 923600

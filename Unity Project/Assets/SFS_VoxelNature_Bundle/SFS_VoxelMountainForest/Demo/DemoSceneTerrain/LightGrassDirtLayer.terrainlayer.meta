@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7dc94501761955b40a0fcec949ebd695
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251865
+  packageName: Voxel - Nature Bundle
+  packageVersion: 1.22
+  assetPath: Assets/SFS_VoxelNature_Bundle/SFS_VoxelMountainForest/Demo/DemoSceneTerrain/LightGrassDirtLayer.terrainlayer
+  uploadId: 716603

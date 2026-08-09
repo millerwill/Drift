@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65e427a551173234bb0c52f1fc2793a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Prefabs/URP/pipe_metal2_cover.prefab
+  uploadId: 962328

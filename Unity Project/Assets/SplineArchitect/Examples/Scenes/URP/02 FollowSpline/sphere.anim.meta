@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 326206b84a97e014fb1b2ec6ba7f37df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/Scenes/URP/02 FollowSpline/sphere.anim
+  uploadId: 962328

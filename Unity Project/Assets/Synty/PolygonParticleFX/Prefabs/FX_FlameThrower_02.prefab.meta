@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef4d31ab810a39b499877583c1f6a865
+timeCreated: 1587338391
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Prefabs/FX_FlameThrower_02.prefab
+  uploadId: 923600

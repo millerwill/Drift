@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13432a645300473bb7c36063ea3328a9
+timeCreated: 1519351850
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168372
+  packageName: POLYGON - Particle FX Pack - Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/Synty/PolygonParticleFX/Materials/FX_Dust_01.mat
+  uploadId: 923600

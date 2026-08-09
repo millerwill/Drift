@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b92a794aec59ab4989f94f7b0749222
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324111
+  packageName: Spline Architect
+  packageVersion: 2.7.2
+  assetPath: Assets/SplineArchitect/Examples/LayerPalettes/gravel_big-layerPalette.terrainlayer
+  uploadId: 962328
