@@ -465,6 +465,7 @@ public class CityBuilderConvoyCamera : MonoBehaviour
         if (doubleClicked)
         {
             FocusCarrier(clickedCarrier);
+            //Enable module selection/swapping
 
             lastClickedCarrier = null;
             lastClickTime = -100f;

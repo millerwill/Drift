@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+Unity Project/Library/PackageCache/com.unity.burst@07790c2d06d9/.Runtime/libburst-llvm-19.dylib
+Unity Project/Library/Search/98957a664bd18c47a3e41b2a0189ef53.SearchIndexArtifactImporter.196609.b.index
+Unity Project/Library/Search/98957a664bd18c47a3e41b2a0189ef53.SearchIndexArtifactImporter.196609.b.index

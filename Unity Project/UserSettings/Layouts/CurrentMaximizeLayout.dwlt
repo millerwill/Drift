@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 25090
+  controlID: 16
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -677,6 +677,20 @@ MonoBehaviour:
       layout: 4
       size: {x: 0, y: 0}
       sizeOverridden: 0
+    - dockPosition: 0
+      containerId: overlay-toolbar__right
+      displayed: 1
+      id: Spline Architect
+      index: 0
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      floating: 0
+      collapsed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverridden: 0
     m_ContainerData:
     - containerId: overlay-toolbar__top
       scrollOffset: 0
@@ -720,9 +734,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 558.0803, y: -23.006786, z: 2372.3665}
+    m_Target: {x: 899.75684, y: 76.80697, z: 1233.6724}
     speed: 2
-    m_Value: {x: 557.67255, y: -22.907516, z: 2371.5432}
+    m_Value: {x: 899.96, y: 76.85654, z: 1233.8229}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -768,13 +782,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.05237349, y: -0.22757289, z: 0.012262905, w: -0.9723744}
+    m_Target: {x: -0.043513626, y: 0.8889777, z: -0.08632362, w: -0.44788414}
     speed: 2
-    m_Value: {x: -0.053340636, y: -0.22753838, z: 0.012489343, w: -0.9722269}
+    m_Value: {x: -0.043594986, y: 0.8884286, z: -0.08627027, w: -0.44872203}
   m_Size:
-    m_Target: 649.55786
+    m_Target: 351.0433
     speed: 2
-    m_Value: 621.5865
+    m_Value: 221.37482
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -832,7 +846,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 25091
+  controlID: 17
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -1041,7 +1055,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1051,33 +1065,21 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: F:\Unity Projects\The Drift
+  m_LastProjectPath: H:\The Drift GH\Drift\Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 50872
+    - m_Data: 57192
     m_LastClickedID:
-      m_Data: 50872
+      m_Data: 57192
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 50854
-    - m_Data: 50856
-    - m_Data: 50858
-    - m_Data: 50860
-    - m_Data: 50862
-    - m_Data: 50864
-    - m_Data: 50866
-    - m_Data: 50868
-    - m_Data: 50870
-    - m_Data: 50872
-    - m_Data: 50874
-    - m_Data: 50876
-    - m_Data: 50878
+    - m_Data: 57192
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1111,20 +1113,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 50854
-    - m_Data: 50856
-    - m_Data: 50858
-    - m_Data: 50860
-    - m_Data: 50862
-    - m_Data: 50864
-    - m_Data: 50866
-    - m_Data: 50868
-    - m_Data: 50870
-    - m_Data: 50872
-    - m_Data: 50874
-    - m_Data: 50876
-    - m_Data: 50878
-    - m_Data: 1000000000
+    - m_Data: 57192
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1151,8 +1140,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 55348
+    m_LastClickedInstanceID: 55348
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -2167,12 +2157,12 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 55348
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -7117418
-      - m_Data: -1296
+      - m_Data: -13152
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
